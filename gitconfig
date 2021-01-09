@@ -52,3 +52,5 @@
 [user]
 	email = f.hiriart@skema.edu
 	name = françois hiriart
+[url "https://"]
+	insteadOf = git://
