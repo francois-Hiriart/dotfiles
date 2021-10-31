@@ -54,3 +54,10 @@
 	name = françois hiriart
 [url "https://"]
 	insteadOf = git://
+[credential]
+	helper = cache --timeout=900
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process

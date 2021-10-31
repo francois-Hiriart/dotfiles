@@ -1,11 +1,18 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Anaconda",
+		"AutoPEP8",
 		"Babel",
+		"BracketHighlighter",
+		"Color Highlight",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
@@ -14,11 +21,8 @@
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"BracketHighlighter",
-		"Color Highlight",
+		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
-		"AutoPEP8",
-		"Anaconda"
-	]
+		"SublimeLinter-rubocop"
+	],
 }
